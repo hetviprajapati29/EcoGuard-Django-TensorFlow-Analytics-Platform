@@ -1,0 +1,50 @@
+🌱 EcoGuard - AI Waste Classification Platform
+
+**Smart waste management through AI-powered image classification and environmental analytics**
+
+## 🚀 Features
+
+- **🤖 AI Waste Classifier** - Upload images for instant waste categorization with 95%+ accuracy
+- **🌍 Carbon Footprint Tracker** - Calculate and monitor environmental impact
+- **📊 Analytics Dashboard** - Interactive charts and sustainability metrics
+- **📱 Responsive Design** - Works seamlessly on mobile, tablet, and desktop
+- **🎨 Modern UI** - Beautiful gradient design with dark/light themes
+
+## 🛠️ Tech Stack
+
+- **Backend**: Django, TensorFlow, OpenCV
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Database**: SQLite/PostgreSQL
+- **ML**: CNN for image classification
+- **Visualization**: Matplotlib, Chart.js
+
+## 🏃‍♂️ Quick Start
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/ecoguard.git
+cd ecoguard
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run migrations
+python manage.py migrate
+
+# Start server
+python manage.py runserver
+```
+
+## 📸 Screenshots
+
+![Waste Classifier](screenshots/classifier.png)
+![Analytics Dashboard](screenshots/dashboard.png)
+
+## 🎯 Use Cases
+
+- Municipal waste management
+- Corporate sustainability tracking
+- Educational environmental programs
+- Smart city initiatives
+
+⭐ **Star this repo if you found it helpful!**
